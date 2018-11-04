@@ -4,3 +4,4 @@ int main()
 	cout<<"HELLO"<<endl;
 	return 0;
 }
+//just for fun
